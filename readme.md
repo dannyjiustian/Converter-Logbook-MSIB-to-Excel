@@ -34,6 +34,8 @@ npm start
 | `xxxxxx` | `number` | **Required**. Type of ID Kegiatan |
 | `bearer token` | `string` | **Required**. Get From Kampus Merdeka after Login |
 
+![Screenshot 2023-12-29 at 10 40 47 PM (1)](https://github.com/dannyjiustian/Converter-Logbook-MSIB-to-Excel/assets/26474898/071f7b40-3001-4990-9dcd-8e4cca4aa6ff)
+
 When the API runs successfully it will get the data as below 👇 
 ```json
 {
