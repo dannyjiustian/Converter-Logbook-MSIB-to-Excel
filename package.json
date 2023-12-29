@@ -1,0 +1,44 @@
+{
+  "name": "Converter Logbook MSIB to Excel",
+  "version": "1.0.0",
+  "description": "This tool is useful for converting json MSIB logbook files to excel format which is easier to understand by taking only important values.",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [
+    "Converter",
+    "Kampus Merdeka",
+    "API",
+    "Logbook",
+    "MSIB",
+    "Magang",
+    "Internship"
+  ],
+  "author": {
+    "name": "Danny Jiustian",
+    "email": "danny.djie72@gmail.com",
+    "url": "https://github.com/dannyjiustian"
+  },
+  "contributors": [],
+  "scripts": {
+    "start": "node index.js",
+    "dev": "",
+    "test": ""
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "sheetjs-style": "^0.15.8",
+    "xlsx": "^0.18.5"
+  }
+}
