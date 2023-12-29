@@ -26,7 +26,7 @@ npm start
 #### Get data from Kampus Merdeka Platform
 
 ```http
-  GET /https://api.kampusmerdeka.kemdikbud.go.id/magang/report/allweeks/xxxxxx
+  GET https://api.kampusmerdeka.kemdikbud.go.id/magang/report/allweeks/xxxxxx
 ```
 
 | Needs | Type     | Description             |
